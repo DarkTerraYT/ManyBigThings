@@ -7,4 +7,6 @@
 
 Lets you change the size and optionally the radius and range of towers. Doesn't affect sub-towers.
 
+<h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/DarkTerraYT/ManyBigThings/total?label=Total%20Dowloads"></h1>
+
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
