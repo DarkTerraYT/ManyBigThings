@@ -4,7 +4,7 @@ public static class ModHelperData
 {
     public const string WorksOnVersion = "40.0";
     public const string Version = "1.0.0";
-    public const string Name = "Many Big Things";
+    public const string Name = "Many Big (and small!) Things";
 
     public const string Description = "Allows you to change the scale of towers. Doesn't affect sub towers.";
 
