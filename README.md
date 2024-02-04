@@ -3,7 +3,7 @@
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
-<h1 align="center">BigMonke</h1>
+<h1 align="center">Many Big (and small!) Things</h1>
 
 Lets you change the size and optionally the radius and range of towers. Doesn't affect sub-towers.
 
